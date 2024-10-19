@@ -1,0 +1,6 @@
+@SkinDataAPI_HostAddress = http://localhost:5152
+
+GET {{SkinDataAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
